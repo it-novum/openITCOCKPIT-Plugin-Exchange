@@ -26,6 +26,9 @@ Please see [Table of contents](#table-of-contents) to get a list of all availabl
 - **Windows**
     - Be the first one :)
 
+- **Znuny**
+    - [check_znuny_queue](/znuny/check_znuny_queue/) - Monitor the length of a given Znuny Queue
+
 # Contributing
 
 Basically there are two types of contributions
