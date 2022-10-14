@@ -4,7 +4,7 @@
 i-doit Licencecheck
 Change Line 21 & 22 for DB Credentials!!!!!!!!
 Requires: python-pip, pip mysql-connector, datetime, argparse, sys
-example: check_i-doit_license.py --warn 80 --crit 90 --exp 90
+example: check_i-doit_license.py --warn 80 --crit 90 --expire 90
 
 it-novum GmbH
 MIT License
